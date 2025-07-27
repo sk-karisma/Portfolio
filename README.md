@@ -21,7 +21,7 @@ This repository contains **HTML & CSS files** for my personal **Resume** and **C
 ---
 
 ## **Direct Links**
-- [Resume HTML](./resume.html)
-- [CV HTML](./cv.html)
+- [Resume HTML](https://sk-karisma.github.io/Portfolio/resume.html)
+- [CV HTML](https://sk-karisma.github.io/Portfolio/cv.html)
 
 ---
