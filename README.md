@@ -21,7 +21,7 @@ This repository contains **HTML & CSS files** for my personal **Resume** and **C
 ---
 
 ## **Direct Links**
-- [Resume HTML](./index.html)
-- [CSS File](./style.css)
+- [Resume HTML](./resume.html)
+- [CV HTML](./cv.html)
 
 ---
